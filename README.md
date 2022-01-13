@@ -19,7 +19,7 @@
   <img align="center" alt="Gustavo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gustavo-Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg">
-  <a href="https://discord.gg/z44Bb7a8" <img src="https://discord.com/channels/922177024330706986/922177024813072386/931173629188780043">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/imagens/agYVG0o">
 </div>
   
   ##
@@ -29,6 +29,7 @@
 <a href ="mailto:gustavommdias56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gustavomoreiramdias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5538997279125"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 ![Snake animation](https://github.com/Gustavommdias/Gustavommdias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
