@@ -19,7 +19,7 @@
   <img align="center" alt="Gustavo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gustavo-Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg">
-  <img align="center" alt="Gustavo-Gif" height="30" width="40" src="https://discord.com/channels/922177024330706986/922177024813072386/931173629188780043">
+  <img align="center" alt="Gustavo-Gif" height="30" width="40" <img src="https://discord.com/channels/922177024330706986/922177024813072386/931173629188780043">
 </div>
   
   ##
